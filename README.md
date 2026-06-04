@@ -1,16 +1,19 @@
-## Hi there 👋
+# hey, I'm Chinaza 👋
 
-<!--
-**c-hinaza/c-hinaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a final year software engineering student with amazing UI/UX design capabilities and a passion for frontend development.
+I like building interfaces that look great and actually feel good to use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what I'm working with
+`HTML` `CSS` `JavaScript` `React` `Figma`
+
+### what I'm into right now
+- Getting better at design systems and component-driven development
+- Turning designs into real, working interfaces
+- Freelance UI/UX work on the side
+
+### a bit more
+- 🎓 Final year @ Nile University
+- 📍 Nigeria
+- 🎯 Working toward a role as a Frontend Developer / Product Designer
