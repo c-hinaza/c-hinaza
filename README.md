@@ -1,4 +1,4 @@
-# hey, I'm Chinaza # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# hey, I'm Chinaza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 Currently a final year software engineering student with amazing UI/UX design capabilities and a passion for frontend development.
 I like building interfaces that look great and actually feel good to use.
