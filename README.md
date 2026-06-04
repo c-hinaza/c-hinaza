@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F736BF&width=435&lines=Hi!+I'm+Chinaza)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F736BF&width=435&lines=Hi!+I'm+Chinaza)](https://git.io/typing-svg)
 
 I'm currently a final year software engineering student with amazing UI/UX design capabilities and a passion for frontend development. <br>I like building interfaces that look great and actually feel good to use.<br>
 
